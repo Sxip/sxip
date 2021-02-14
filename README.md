@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm Jamie! 👋</h2>
-<h4 align="center">I'm a 23 year old developer based in United Kingdom.</h4>
+<h4 align="center">I'm a 24 year old developer based in United Kingdom.</h4>
 
 ### Contact me 💭
 
