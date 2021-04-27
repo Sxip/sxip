@@ -4,7 +4,7 @@
 ### Contact me 💭
 
 - <a href="https://twitter.com/itssxip"><img src="https://i.imgur.com/cfS8N9N.png" width=16 height=16 align="center" /> Twitter</a>
-- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width=16 height=16 align="center" /> Discord: `Sxip#0001`</a>
+- <a href="#"><img src="https://i.imgur.com/Jz1AFfB.png" width=16 height=16 align="center" /> Discord: `Sxip#1253`</a>
 - <a href="mailto:hello@sxip.dev">📩 E-mail: `hello@sxip.dev`</a>
 
 ### Stats 📊
