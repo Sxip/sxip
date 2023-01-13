@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Jamie! 👋</h2>
+<h3 align="center">Hi there, I'm Jamie! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /></h2>
 <h4 align="center">I'm a 25 year old developer based in United Kingdom.</h4>
 
 ### Contact me 💭
@@ -8,4 +8,4 @@
 
 ### Stats 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=sxip&show_icons=true&count_private=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=sxip&show_icons=true&theme=dark" />
