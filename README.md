@@ -8,6 +8,7 @@
     languages:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">js</a>,
     <a href="https://www.typescriptlang.org/">ts</a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp">c#</a>
     <br>
     <br>
     systems:
