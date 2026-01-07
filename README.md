@@ -25,18 +25,18 @@
 
 ## about me
 
-I'm a **full-stack and systems engineer** with a strong background in **security, protocol design, reverse engineering, and backend architecture**.
+I'm a full-stack and systems engineer with a strong background in security, protocol design, reverse engineering, and backend architecture**.
 
 I've built:
-- large-scale **fleet & workshop management platforms**
-- **security tooling, injectors, and network analysis tools**
-- **serverless cloud platforms** and automation pipelines
-- **game server tooling & emulation systems**
+- large-scale fleet & workshop management platforms
+- security tooling, injectors, and network analysis tools
+- serverless cloud platforms and automation pipelines
+- game server tooling & emulation systems
 
-I focus heavily on **performance, clean architecture, security, and long-term maintainability**. I enjoy working close to the metal as much as I enjoy building polished user-facing systems.
+I focus heavily on performance, clean architecture, security, and long-term maintainability. I enjoy working close to the metal as much as I enjoy building polished user-facing systems.
 
 ## 📫 contact
 
-- 📧 **hello@sxip.dev**  
+- 📧 hello@sxip.dev
 ---
 
