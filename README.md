@@ -23,6 +23,6 @@ I've built:
 
 I care about performance, clean architecture, security, and writing code that lasts. Whether I'm working on low-level systems or polished user interfaces, I approach both with the same attention to detail.
 
-## 📫 contact
+## contact
 
-- 📧 hello@sxip.dev
+- hello@sxip.dev
