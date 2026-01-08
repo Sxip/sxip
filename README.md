@@ -15,11 +15,7 @@
 
 I'm a full-stack and systems engineer with a strong background in security, protocol design, reverse engineering, and backend architecture.
 
-I've built:
-- large-scale fleet & workshop management platforms
-- security tooling, injectors, and network analysis tools
-- serverless cloud platforms and automation pipelines
-- game server tooling & emulation systems
+I've built large-scale fleet & workshop management platforms, security tooling, injectors, and network analysis tools, serverless cloud platforms and automation pipelines, and game server tooling & emulation systems.
 
 I care about performance, clean architecture, security, and writing code that lasts. Whether I'm working on low-level systems or polished user interfaces, I approach both with the same attention to detail.
 
