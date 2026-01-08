@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Hi,%20I'm%20Jamie%20👋&fontSize=50&fontColor=ffffff&fontAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi%20I'm%20Jamie%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20and%20Systems%20Engineer&descAlignY=55&descSize=20)
 
 <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,postgres,redis,linux,apple&theme=dark" alt="Tech Stack" />
 
@@ -25,10 +25,4 @@ I care about performance, clean architecture, security, and writing code that la
 [![Email](https://img.shields.io/badge/hello@sxip.dev-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sxip.dev)
 [![Twitter](https://img.shields.io/badge/@0xsxip-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xsxip)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" />
 </div>
